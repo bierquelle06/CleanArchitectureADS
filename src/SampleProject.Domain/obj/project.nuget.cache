@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kXSDcxXo4ESldFoNQPzY0DrprNzVrk1zVT6208dBJdfFXdo4nQfJtzZmX3wc7SICEeSpZ++YmS8vdxblJw2oNg==",
+  "success": true,
+  "projectFilePath": "C:\\MyProjects\\ADESSO\\src\\SampleProject.Domain\\SampleProject.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\mediatr\\8.0.0\\mediatr.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

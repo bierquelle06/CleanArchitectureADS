@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ch/JRYzSIptKkVxlMHSEUJAvz1m1VMrVOXolHVkfdnnFCOnzgQJvJpFiGG3Wr3yuxNGCUbMVWP2sClvMdPOlww==",
+  "success": true,
+  "projectFilePath": "C:\\MyProjects\\ADESSO\\src\\SampleProject.Application\\SampleProject.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\dapper\\2.0.30\\dapper.2.0.30.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\fluentvalidation\\8.6.1\\fluentvalidation.8.6.1.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\mediatr\\8.0.0\\mediatr.8.0.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\system.reflection.emit.lightweight\\4.6.0\\system.reflection.emit.lightweight.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
