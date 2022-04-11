@@ -1,2 +1,0 @@
-# CleanArchitectureADS
-CleanArchitectureADS
