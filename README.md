@@ -16,7 +16,7 @@ Kullanıcıların A şehirinden B şehirine şahsi arabaları ile seyehat ederke
 
 ## Wiki (How to use)
 If you want learn to more information for this app. and you can see wiki page of this app.
-https://github.com/bierquelle06/CleanArchitectureADS/wiki
+https://github.com/bierquelle06/CleanArchitectureADS/wiki/How-To-Use
 
 ## Architecture [Clean Architecture](http://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 
