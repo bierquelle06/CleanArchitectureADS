@@ -14,11 +14,14 @@ Kullanıcıların A şehirinden B şehirine şahsi arabaları ile seyehat ederke
 3. Kullanıcılar sistemdeki yayında olan seyahat planlarını Nereden ve Nereye bilgileri ile aratabilmeli
 4. Kullanıcılar yayında olan seyehat planlarına "Koltuk Sayısı" dolana kadar katılım isteği gönderebilmeli
 
-
+## Wiki (How to use)
+If you want learn to more information for this app. and you can see wiki page of this app.
+https://github.com/bierquelle06/CleanArchitectureADS/wiki
 
 ## Architecture [Clean Architecture](http://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 
 ![projects_dependencies](docs/clean_architecture.jpg)
+
 
 ## CQRS
 
